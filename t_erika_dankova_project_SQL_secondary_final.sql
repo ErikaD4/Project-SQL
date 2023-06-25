@@ -1,4 +1,6 @@
 /* Autor: Erika Danková */
+/* Discord: Erika D.#1312 */
+
 /*  Tvorba sekundárnej tabuľky - pro dodatečná data o dalších evropských státech s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR*/
 
 CREATE OR REPLACE TABLE t_erika_dankova_project_SQL_secondary_final AS
