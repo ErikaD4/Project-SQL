@@ -1,3 +1,6 @@
+/* Autor: Erika Danková */
+/* Discord: Erika D.#1312 */
+
 /* Otázka č.1 - 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? */
 
 /* tento príkaz vypíše top 5 perc. poklesov - konkrétny rok a odvetvie*/
