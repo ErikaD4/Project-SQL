@@ -1,4 +1,6 @@
 /* Autor: Erika Danková */
+/* Discord: Erika D.#1312 */
+
 /* Tvorba finálnej tabuľky - pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky */ */
 
 CREATE OR REPLACE TABLE t_erika_dankova_project_SQL_primary_final AS (
