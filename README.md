@@ -1,2 +1,2 @@
 # Project-SQL
-Spracovanie dát o cenách a mzdách pomocou SQL.
+K absolvovaniu 12-týdňového kurzu Dátová akadémia poskytovaným spoločnosťou ENGETO s.r.o. je potrebné vypracovať SQL projekt. Na základe jeho vypracovania dochádza k overeniu znalostí jazyka SQL. Obdržali sme 7  primárnych tabuliek, 2 číselníky zdieľaných informácií a 2 dodatočné tabuľky, ktoré sú nevyhnutné k dokončeniu projektu. Cieľom je zodpovedanie 5 výskumných otázok prostredníctvom vytvorenia dotazov na nami pripravené 2 tabuľky. 
